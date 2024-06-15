@@ -18,7 +18,7 @@ spec:
     kind: Application
   project: default
   source:
-    path: bootstrap/argo-cd
+    path: bootstrap/argocd
     repoURL: https://github.com/moabukar/gitops-scratch.git
   syncPolicy:
     automated:
